@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Court's apology containing a short vindication of the courtiers from the common aspersions and misreports of ignorance and envy / by L.G. a daily observator.</title>
+            <author>L. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42542</idno>
+            <idno type="STC">Wing G43</idno>
+            <idno type="STC">ESTC R19884</idno>
+            <idno type="EEBO-CITATION">12258770</idno>
+            <idno type="OCLC">ocm 12258770</idno>
+            <idno type="VID">57707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57707)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 915:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Court's apology containing a short vindication of the courtiers from the common aspersions and misreports of ignorance and envy / by L.G. a daily observator.</title>
+                  <author>L. G.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Court and courtiers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57707:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:57707:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE COURT'S Apology. Containing a ſhort <hi>VINDICATION</hi> OF THE <hi>CO<g ref="char:V">Ʋ</g>RTIERS.</hi> FROM THE Common <hi>Aſperſions</hi> and <hi>miſre<g ref="char:EOLhyphen"/>ports</hi> of Ignorance and Envy.</p>
+            <p>By <hi>L. G.</hi> A Daily Obſervator.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, MDGLXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57707:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="3" facs="tcp:57707:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>THE COURTS Apology, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>IS not my deſign ſo much to conſult the Perſons or Capaci<g ref="char:EOLhyphen"/>ties of thoſe to whom I ad<g ref="char:EOLhyphen"/>dreſſe my <hi>Vindication,</hi> as the
+<pb n="4" facs="tcp:57707:3"/>
+               <!-- PDF PAGE 3 -->Qualities and Occaſions of thoſe whoſe Patronage I have undertaken. The Imperti<g ref="char:EOLhyphen"/>nence of the Detractours, de<g ref="char:EOLhyphen"/>ſerves not ſatisfaction, but the Demeanours of the Slandered do neceſſarily exact a <hi>Cloak.</hi>
+            </p>
+            <p>I am not ignorant with what reſentment my Clyents will entertain an Advocate of their own Alliance Had it been an Exotick, or an unac<g ref="char:EOLhyphen"/>quaintance, their longanimity might have brib'd their longer Ears to an Audience; but 'tis not their cuſtome to reliſh a
+<pb n="5" facs="tcp:57707:3"/>
+               <!-- PDF PAGE 3 -->tedious acquaintance, neither do they love to hear their <hi>own.</hi>
+            </p>
+            <p>I pretend not an Apology for Ladies, againſt whom the clamours of the people cannot raiſe a ſcandal of prevalence, the down-right language (which proves uſually ſucceſ<g ref="char:EOLhyphen"/>ful with others) becoming uneffectual with Ladies of a Court Complexion; Since the Raylery of the Vulgar, and the Pourtraicture of a Satyriſt (though never ſo much diſ<g ref="char:EOLhyphen"/>playing them) muſt alike de<g ref="char:EOLhyphen"/>ſpair to make <hi>them</hi> bluſh, who
+<pb n="6" facs="tcp:57707:4"/>
+               <!-- PDF PAGE 4 -->can alwaies put a good <hi>Face</hi> upon it. I do not enterpriſe then a deſcription of thoſe; they alone can paint themſelvs in their proper <hi>Colours.</hi>
+            </p>
+            <p>But although I may not preſume to obtrude upon the World a Vindication of La<g ref="char:EOLhyphen"/>die's Repute, yet I ſhall not make ſo far a digreſſion from them, as to leave the Courtiers (their Proſelites and Appen<g ref="char:EOLhyphen"/>dixes) unexcuſ'd, and to omit an Apology for thoſe in whoſe faces 'tis moſt uſual to caſt dirt. 'Tis my ayme to
+<pb n="7" facs="tcp:57707:4"/>
+               <!-- PDF PAGE 4 -->wipe thoſe whom the Rout beſpatter; and to new ſhadow them whoſe honour is eclip<g ref="char:EOLhyphen"/>ſed; and herein I cannot de<g ref="char:EOLhyphen"/>ſpond of good reception; For how can they, with whom a painted ſace is ſo attractive, diſguſt a draught that ſo much reſembles them?</p>
+            <p>The firſt allegation where<g ref="char:EOLhyphen"/>with people keep their tongues in action, and amuſe themſelvs into wonder, is the exorbi<g ref="char:EOLhyphen"/>tancy of Array and Attire ex<g ref="char:EOLhyphen"/>penſive beyond the precincts of their annual ſufficiencies.
+<pb n="8" facs="tcp:57707:5"/>
+               <!-- PDF PAGE 5 -->Whereas I cannot but admire that men ſhould ſo much ſcandal their own judgments, as to libel and decry the Cour<g ref="char:EOLhyphen"/>tiers good Apparel, ſince rich Attire is more diſpenſable and of a cheaper bargain with <hi>them,</hi> whoſe wits go ſtill a <hi>wooll gathering.</hi>
+            </p>
+            <p>The next, forſooth, where<g ref="char:EOLhyphen"/>with we are acquainted, is a Gallimaffry of Nations from whence the Court derives a Motley Countenance, repre<g ref="char:EOLhyphen"/>ſenting <hi>Babel</hi> in its Epitome, compos'd of nothing but the
+<pb n="9" facs="tcp:57707:5"/>
+               <!-- PDF PAGE 5 -->confuſion of Languages. No, no, thoſe whoſe inclinations are ſo biaſſ'd towards Females, muſt unavoidably affect their Mother tongue. But what though there were a mixture of Speeches? Methinks that ſhould not give occaſion of diſguſt to thoſe (whoſe Palats ſeldom diſreliſh an Oleo or Kickſhaw) the Court it ſelf being nothing elſe but a <hi>French</hi> diſh A diverſity of Language in <hi>White-hall,</hi> is not (I hope) grown inexcuſable; eſpeci<g ref="char:EOLhyphen"/>ally ſince there is large amends
+<pb n="10" facs="tcp:57707:6"/>
+               <!-- PDF PAGE 6 -->made for their difference in Tongues, by their agreement in thought, and their being of one mind, each man having reſolvedly determined to de<g ref="char:EOLhyphen"/>fraud his <hi>Maſter.</hi>
+            </p>
+            <p>The next thing whereby our Slanderers animate others to the diſaffecting of Courti<g ref="char:EOLhyphen"/>ers, is A pretence of Bribery and Extortion; in that they weigh not what diſpoſure they make of places, 'cauſe they are procured by pounds, giving occaſion to ſome of propheſying, that the Court
+<pb n="11" facs="tcp:57707:6"/>
+               <!-- PDF PAGE 6 -->will <hi>Break,</hi> 'cauſe Offices fall to <hi>Pieces.</hi> But had they not more mind to cavil, than re<g ref="char:EOLhyphen"/>ceive ſatisfaction, they might acquieſce in conſideration of the neceſſity of ſuch Tranſ<g ref="char:EOLhyphen"/>actions, aſſuring themſelves that there muſt needs be <hi>Cor<g ref="char:EOLhyphen"/>ruption,</hi> where the Court is compos'd of ſuch a <hi>Generation.</hi> And what though there be Corruption? Yet 'tis a Place of little infection; the <hi>Itch</hi> be<g ref="char:EOLhyphen"/>ing the diſtemper moſt reg<g ref="char:EOLhyphen"/>nant, which renders them ſo deſirous to be <hi>ſcratch'd,</hi> and for
+<pb n="12" facs="tcp:57707:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 7 -->which we can preſcribe no better a Remedy than a <hi>Purga<g ref="char:EOLhyphen"/>tion.</hi> As for the <hi>Gout,</hi> the <hi>Plague</hi> in the Purſe is not onely a prevention of that, but anti<g ref="char:EOLhyphen"/>dotes all other <hi>Malignities.</hi>
+            </p>
+            <p>Nor doth their next aſper<g ref="char:EOLhyphen"/>ſion more participate of vera<g ref="char:EOLhyphen"/>city; they themſelves becom<g ref="char:EOLhyphen"/>ing injurious unto truth, while they challenge Courtiers of in<g ref="char:EOLhyphen"/>juſtice, and diſregard of me<g ref="char:EOLhyphen"/>rits, in the conferring either reward or puniſhment. For did they not <hi>propoſito</hi> hood<g ref="char:EOLhyphen"/>wink themſelves, how eaſily
+<pb n="13" facs="tcp:57707:7"/>
+               <!-- PDF PAGE 7 -->might they be convinc'd of a contrary deportment? ſince the Courtiers are ſo ambitious <hi>(ad amuſsim)</hi> to reſemble <hi>Ju<g ref="char:EOLhyphen"/>ſtice</hi> it ſelf, that their diſtributi<g ref="char:EOLhyphen"/>ons are made with the moſt accurate <hi>Blindneſſe.</hi>
+            </p>
+            <p>The fifth Stratagem where<g ref="char:EOLhyphen"/>by they work eaſie Ignorance into Credulity, is to lay defici<g ref="char:EOLhyphen"/>ency of <hi>Almes</hi> at the Courtiers door, and to caſt want of <hi>Charity</hi> into his <hi>Diſh.</hi> Perſwa<g ref="char:EOLhyphen"/>ding men into an apprehenſi<g ref="char:EOLhyphen"/>on that they are Charitable to themſelves alone. For the
+<pb n="14" facs="tcp:57707:8"/>
+               <!-- PDF PAGE 8 -->ſilencing this Calumny, we might tell them that charitie <hi>begins</hi> at home. But alas, this is but the <hi>beginning</hi> of Charity, whereas that of Courtiers is gone farther, and come even to it's utmoſt <hi>End.</hi>
+            </p>
+            <p>And next (leſt peradventure their Learning and Knowledg might ſtipulate either for their pretended Crimes or Defici<g ref="char:EOLhyphen"/>encies) They are indicted of Ignorance and contempt of Literature. Whereas, how eaſily are they acquitted from this Slander and Impeach<g ref="char:EOLhyphen"/>ment?
+<pb n="15" facs="tcp:57707:8"/>
+               <!-- PDF PAGE 8 -->In that it is impoſſible with ſound reaſon to accuſe them of Ignorance, who are, each man, able to confound the wiſe, the Court it ſelf be<g ref="char:EOLhyphen"/>ing the very <hi>confuſion</hi> of wiſ<g ref="char:EOLhyphen"/>dome. Nor doth it leſſe par<g ref="char:EOLhyphen"/>take of abſurditie, to aſperſe them with neglect of Learn<g ref="char:EOLhyphen"/>ing, who are ſo much addicted to Books; each Shopkeepers Book can ſhew it.</p>
+            <p>That it is not Conſcience, but Intereſt, (whatſoever ap<g ref="char:EOLhyphen"/>pearances they make) which raiſes theſe Clamours, to the
+<pb n="16" facs="tcp:57707:9" rendition="simple:additions"/>
+               <!-- PDF PAGE 9 -->Infamy of the Court; and that their Concernments prompt them to theſe accuſa<g ref="char:EOLhyphen"/>tions, is eaſily viſible in the next Impeachment; wherein we have Courtiers repreſented as <hi>backward</hi> in diſcharging all debts, (except thoſe that Wo<g ref="char:EOLhyphen"/>men demand) inſomuch that Creditours are neceſſitated to that incivility of dunning them at their Lodgings. Alas, how miſerably do our Accu<g ref="char:EOLhyphen"/>ſants miſtake themſelves, in alledging that for a Crime, which I am ready to produce
+<pb n="17" facs="tcp:57707:9"/>
+               <!-- PDF PAGE 9 -->in their Vindication? For in this demeanour of Courtiers, I apprehend nothing elſe than honeſty in the engaging them<g ref="char:EOLhyphen"/>ſelves to an acknowledgment of their Debts, it being im<g ref="char:EOLhyphen"/>poſſible for them to refuſe the Child when 'tis brought home to their own Doors. But we ſhall not gratifie our Adverſa<g ref="char:EOLhyphen"/>ries ſo far, as to confeſſe the fact, ſince this ſcandal of re<g ref="char:EOLhyphen"/>miſſeneſſe in paying Debts is unmeaſurably falſe; Neither do Courtiers trouble their ſcores to be brought home,
+<pb n="18" facs="tcp:57707:10"/>
+               <!-- PDF PAGE 10 -->but meet them <hi>half way,</hi> and generouſly diſcharge them in the <hi>middle.</hi> Let not then any miſ-reports excite their Cre<g ref="char:EOLhyphen"/>ditours to miſtruſt, or Jealou<g ref="char:EOLhyphen"/>ſie, ſince I dare ſafely pro<g ref="char:EOLhyphen"/>nounce them no Cheats; For there muſt unavoydably be honeſt <hi>Dealing,</hi> where there is ſo much <hi>Shuffling.</hi>
+            </p>
+            <p>The eighth Cavillation whereby the Courtier is ex<g ref="char:EOLhyphen"/>pos'd to Cenſure and Miſpri<g ref="char:EOLhyphen"/>ſion, is <hi>Pride,</hi> and a violent Ambition of being admir'd. Whereas, could we withdraw
+<pb n="19" facs="tcp:57707:10"/>
+               <!-- PDF PAGE 10 -->the vizard of Spleen and Male<g ref="char:EOLhyphen"/>volence, we ſhould have a proſpect of qualities of ano<g ref="char:EOLhyphen"/>ther Complexion, and we might eaſily behold them courteous, loving and af<g ref="char:EOLhyphen"/>fable, courting their own ſha<g ref="char:EOLhyphen"/>dowes, and complementing the very looking-glaſſe. And as for their deſire of being wonder'd at, there is no ſuch thing; For they have now taken the courſe to ſave others the expenſe of admiration, ſince they have learnt each man ſufficiently to admire himſelf.</p>
+            <p>
+               <pb n="20" facs="tcp:57707:11" rendition="simple:additions"/>
+               <!-- PDF PAGE 11 -->
+Partiality is the next which is foyſted in to make up the number of the pretended Crimes of Court. Whereas the moſt ſuperficial ſcruting will convince us, that with Courtiers there is no <hi>reſpect of Perſons;</hi> In that they can paſſe by their old and intimate Ac<g ref="char:EOLhyphen"/>quaintance, without taking the leaſt <hi>cognizance</hi> or <hi>notice</hi> of them.</p>
+            <p>Nor is it the Courtiers hap<g ref="char:EOLhyphen"/>pyneſſe to be the Object of theſe Scandals <hi>alone;</hi> but they are alſo traduc'd for not being
+<pb n="21" facs="tcp:57707:11"/>
+               <!-- PDF PAGE 11 -->ſtock'd with Loyalty propor<g ref="char:EOLhyphen"/>tionable to their Promotions, as not having ſhar'd in thoſe ſufferings which ſunk the old Cavaliers. But an eaſie Vin<g ref="char:EOLhyphen"/>dication will expunge this ob<g ref="char:EOLhyphen"/>loquy, and undeceive the a<g ref="char:EOLhyphen"/>buſed multitude, by ſignifying to them, That the Perſons now preferr'd, have been, and are the greateſt ſufferers, <hi>ſuffer<g ref="char:EOLhyphen"/>ing</hi> the greateſt Crimes to be acted under their Noſe; with impunity. Neither have they been (if well conſider'd) leſſe looſers. The Kings old Soul<g ref="char:EOLhyphen"/>diers
+<pb n="22" facs="tcp:57707:12"/>
+               <!-- PDF PAGE 12 -->loſt indeed their Eſtates and Fortunes, but theſe have loſt their <hi>honeſty</hi> in his Maje<g ref="char:EOLhyphen"/>ſtie's ſervice.</p>
+            <p>Much ſtir there is, about the quarrelſome diſpoſition reg<g ref="char:EOLhyphen"/>nant in the Court, which in<g ref="char:EOLhyphen"/>diſpoſeth men for peace upon the leaſt <hi>foul</hi> language; And 'tis accounted vanity in Courtiers to <hi>ſtand</hi> ſo much upon their ho<g ref="char:EOLhyphen"/>nour. But theſe diſ-reſentments are taken up without cauſe, and the occaſion will not juſtifie the Cavil: For as to the firſt, they are ſo little addicted to take
+<pb n="23" facs="tcp:57707:12"/>
+               <!-- PDF PAGE 12 -->exceptions at <hi>foul</hi> language as that they delight in nothing more, inſomuch that 'tis not without ſome reaſon, many of them are thought to have been begotten in the <hi>Stewes;</hi> their Diſcourſe being made up of nothing elſe but <hi>ribaldry.</hi> And as for the other, I think they have reaſon to <hi>ſtand</hi> upon their honour, <hi>whoſe</hi> carriage is the onely cauſe that 'tis ſo much <hi>trodden under foot.</hi> Beſides, their Bickerings and Duels (which give greateſt diſguſt) will be more pardonable if well con<g ref="char:EOLhyphen"/>ſidered,
+<pb n="24" facs="tcp:57707:13" rendition="simple:additions"/>
+               <!-- PDF PAGE 13 -->for they do not (as we erroneouſly apprehend) fight to <hi>vindicate good repute, and hono<g ref="char:EOLhyphen"/>rable name,</hi> but meerly out of a deſign to <hi>get</hi> one, becauſe they are conſcious they <hi>never</hi> had a<g ref="char:EOLhyphen"/>ny before.</p>
+            <p>'Tis alleadg'd moreover, that they much in poveriſh his Ma<g ref="char:EOLhyphen"/>jeſty by importuning his Reve<g ref="char:EOLhyphen"/>nues, and procuring his Man<g ref="char:EOLhyphen"/>nors for themſelves, it being thought neceſſary that <hi>that</hi> King muſt needs be <hi>poor, whoſe</hi> Courtiers are al<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Beggers.</hi> But this is but an inconſiderable
+<pb n="25" facs="tcp:57707:13" rendition="simple:additions"/>
+               <!-- PDF PAGE 13 -->detraction, and 'tis hop'd the future proceedings of the Court will give it the Lye; eſpecially ſince ſome have given them a good example, by taking a courſe not to ſcandal the Court by open <hi>begging</hi> from the King, but by private, both taking from him and their brethren.</p>
+            <p>Again, the undecency of their Carriage, made up of ſo many ridiculous geſtures, ac<g ref="char:EOLhyphen"/>companied with the continual motion and coranto of the legs &amp; head, and attended with po<g ref="char:EOLhyphen"/>ſtures too light for the gravity
+<pb n="26" facs="tcp:57707:14"/>
+               <!-- PDF PAGE 14 -->of a Court; becomes the next Impeachment. But I do not conceive what other Behavi<g ref="char:EOLhyphen"/>our we can expect: How can we hope for any other carriage than what is compos'd of <hi>An<g ref="char:EOLhyphen"/>tick tricks,</hi> ſince the <hi>French</hi> have ſupply'd us with ſuch a genera<g ref="char:EOLhyphen"/>tion of <hi>Apes?</hi> Inſomuch, that many ſuppoſe <hi>Aeſop</hi>'s experi<g ref="char:EOLhyphen"/>ment might afford his <hi>Majeſty</hi> very good divertiſement; and that the ſcattering of a Bagge of <hi>Nuts</hi> would ſhew him all his Court together by the <hi>Ears.</hi>
+            </p>
+            <p>The next thing wherewith
+<pb n="27" facs="tcp:57707:14"/>
+               <!-- PDF PAGE 14 -->the people vex themſelves, is the Courtiers youthful Indiſ<g ref="char:EOLhyphen"/>cretion, and their aſſumed locks of borrowed hayre: As to the firſt, 'tis true they are generally young in countenance, but their brains do much partici<g ref="char:EOLhyphen"/>pate of gravity and age, for I'me ſure they are <hi>worme-eaten.</hi> And as for the laſt, it finds an obvi<g ref="char:EOLhyphen"/>ous Apology, ſince there is ſuch a Correſpondence between <hi>Periwiggs</hi> and their <hi>heads,</hi> which being ſo furniſhed with news, are nothing elſe but ſo many Barbers Shops.</p>
+            <p>
+               <pb n="28" facs="tcp:57707:15"/>
+               <!-- PDF PAGE 15 -->
+But all this while we have not queſtion'd their Religion, which the miſ-apprehenſions of the vulgar deem to be none at all, or (at leaſt) nearly ally'd to <hi>Popery.</hi> Here I could wiſh my <hi>Apology</hi> might find accep<g ref="char:EOLhyphen"/>tance, and that I might not be eſteemed partial in my attempt<g ref="char:EOLhyphen"/>ing to juſtifie their Divinity both in it's Practiſe and Theo<g ref="char:EOLhyphen"/>ry. If I may be credited then, I can aſſure the Reader, that they are ſo far from being of <hi>no</hi> Re<g ref="char:EOLhyphen"/>ligion, as that they are of <hi>all,</hi> and ſo far from running into the <hi>old</hi>
+               <pb n="29" facs="tcp:57707:15"/>
+               <!-- PDF PAGE 15 -->one from whence we re<g ref="char:EOLhyphen"/>form'd, as that 'tis to be hop'd they have found a <hi>newer</hi> way to Heaven than the Word of God, ſince they can laugh at Scripture and deride a Sermon. Nor is their practical Theology far behind their Speculative; for 'tis expected every day that they will enter into a courſe of repentance, they are ſo addicted to <hi>whoring;</hi> and that lying will be out of faſhion, they are ſo given to <hi>ſwearing.</hi>
+            </p>
+            <p>As for Popery, 'tis true they ſeem inclinable thereunto;
+<pb n="30" facs="tcp:57707:16"/>
+               <!-- PDF PAGE 16 -->ſince while they proſtitute their devotion, and addreſs their zeal to an handſome face, they do (with Papiſts) nothing but a<g ref="char:EOLhyphen"/>dore a <hi>Picture.</hi> But yet I dare defie the Intromiſſion of Ro<g ref="char:EOLhyphen"/>miſh Rites into our Court, eſpecially ſince the Ladies bear ſuch a reſolved antipathy to <hi>Nuns.</hi>
+            </p>
+            <p>Hitherto have I been the Ad<g ref="char:EOLhyphen"/>vocate of their Religion; If the Reader hath a deſire to know more, let him conſult their Fa<g ref="char:EOLhyphen"/>ces, which ſpeak them (in ſome ſenſe) Saints, in that it preſents
+<pb n="31" facs="tcp:57707:16"/>
+               <!-- PDF PAGE 16 -->many (like the Almanack) in red letters; and others of more handſome features in the re<g ref="char:EOLhyphen"/>ſemblance of thoſe Saints they worſhip, viz. <hi>Ladies;</hi> for their faces as well as their manners pronounce them <hi>effeminate:</hi> Only there lies this difference between their Viſages and thoſe of the Ladies, that the countenance of theſe, when amiſſe, is either patch'd up from their own boxes, or ſup<g ref="char:EOLhyphen"/>ply'd from the Painter's Shop; Whereas the Courtiers face, when it hath got a brack, may
+<pb n="32" facs="tcp:57707:17"/>
+               <!-- PDF PAGE 17 -->be recruited by a <hi>Brazier.</hi>
+            </p>
+            <p>I hope my reſerving the en<g ref="char:EOLhyphen"/>comium of their faces to the poſteriors of my Vindication, will not make them diſcoun<g ref="char:EOLhyphen"/>tenance the reſt; but rather by their wincking at this <hi>hyſteron proteron,</hi> engage the farther en<g ref="char:EOLhyphen"/>deavours of their inconſidera<g ref="char:EOLhyphen"/>ble Advocate</p>
+            <closer>
+               <signed>L. G.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
